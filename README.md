@@ -12,6 +12,6 @@
 
 <div align="left">
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiago-Laureano&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=7FFFD4" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiago-Laureano&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=8FBC8F" />
   
  </div
